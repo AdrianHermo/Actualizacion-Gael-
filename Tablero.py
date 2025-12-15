@@ -15,3 +15,5 @@ class Tablero:
         """Coloca un barco en el tablero."""
         for (fila, columna) in barco.unidades:
             self.celdas[fila][columna] = "B"
+
+# "Barco U2: Optimización de armamento y alcance."
